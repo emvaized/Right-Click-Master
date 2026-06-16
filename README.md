@@ -1,11 +1,20 @@
 # <img src="./icon.ico" height=27px> Right Click Master
-Implements context menu logic from Linux and MacOS in Windows. When you push right mouse button down, context menu opens immediately, allowing you to move mouse cursor over any item, and then select it by releasing the mouse button. It is super lightweight and runs on Autohotkey under the hood. 
+Implements context menu logic from Linux and MacOS in Windows. When you push right mouse button down, context menu opens immediately, allowing you to move mouse cursor over any item, and then select it by releasing the mouse button. 
+
+- Super lightweight, runs on Autohotkey code
+- No installation is needed, just run the `exe` file
 
 In addition, it provides few useful shortcuts while you're holding right mouse button: 
-- Left click (_default_: Reload <kbd>Ctrl</kbd>+<kbd>R</kbd>)
-- Middle click (_default_: Paste <kbd>Ctrl</kbd>+<kbd>V</kbd>)
-- Scroll up (_default_: Scroll to start <kbd>Ctrl</kbd>+<kbd>Home</kbd>)
-- Scroll down (_default_: Scroll to end <kbd>Ctrl</kbd>+<kbd>End</kbd>)
+
+| Action   |      Default
+|:----------|:-------------|
+| Left click |  Reload (<kbd>Ctrl</kbd>+<kbd>R</kbd>) |
+| Middle click | Paste (<kbd>Ctrl</kbd>+<kbd>V</kbd>) |
+| Scroll up | Scroll to start (<kbd>Ctrl</kbd>+<kbd>Home</kbd>) |
+| Scroll down | Scroll to end (<kbd>Ctrl</kbd>+<kbd>End</kbd>) |
+
+### Installation
+No installation is required. Just run the `.exe` file, and it already works.
 
 ### Compatibility
 It works in all Windows apps and system-wide.
@@ -16,7 +25,7 @@ To prevent unwanted activation in games, Right Click Master provides few options
 - Excluded processes list, where you can additionally add your games (in case first option doesn't detect your game)
 
 ### Settings
-Settings `.ini` file is stored under `%AppData%\RightClickMaster`.
+Settings `.ini` file is stored in `%AppData%\RightClickMaster`.
 
 ### Building
 You can compile `.exe` file by using Ahk2Exe utility, which comes along with Autohotkey. Also, you can use utility as Autohotkey script as well, no need to compile it. 
