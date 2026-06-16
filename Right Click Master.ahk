@@ -2,7 +2,7 @@
 ;@Ahk2Exe-SetVersion 1.0.0.0
 ;@Ahk2Exe-SetProductName Right Click Master
 ;@Ahk2Exe-SetProductVersion 1.0.0.0
-;@Ahk2Exe-SetDescription Enhances Windows right-click context menu behavior
+;@Ahk2Exe-SetDescription Enhances right-click context menu behavior in Windows
 ;@Ahk2Exe-SetCopyright emvaized
 ; License: MIT License
 
