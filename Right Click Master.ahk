@@ -335,6 +335,9 @@ CreateTrayMenu()
     }
     Menu, Tray, % ServiceEnabled ? "Check" : "Uncheck", Service is running
     Menu, Tray, % AutostartEnabled ? "Check" : "Uncheck", Autostart on log in
+
+    Menu, Tray, Click, 1
+    Menu, Tray, Default, Settings
 }
 
 ToggleService:
