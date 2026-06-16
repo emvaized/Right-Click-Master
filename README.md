@@ -11,7 +11,7 @@ Right Click Master provides few useful shortcuts while you're holding right mous
 | Scroll up | Scroll to start (<kbd>Ctrl</kbd>+<kbd>Home</kbd>) |
 | Scroll down | Scroll to end (<kbd>Ctrl</kbd>+<kbd>End</kbd>) |
 
-### Installation
+## Installation
 No installation is required. Just run the `.exe` file, and it already works.
 
 ### Compatibility
