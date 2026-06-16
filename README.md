@@ -1,11 +1,11 @@
-# <img src="./icon.ico" height=25px> Right Click Master
+# <img src="./icon.ico" height=27px> Right Click Master
 Implements context menu logic from Linux and MacOS in Windows. When you push right mouse button down, context menu opens immediately, allowing you to move mouse cursor over any item, and then select it by releasing the mouse button. It is super lightweight and runs on Autohotkey under the hood. 
 
 In addition, it provides few useful shortcuts while you're holding right mouse button: 
-- Left click (default: _Reload_ <kbd>Ctrl</kbd>+<kbd>R</kbd>)
-- Middle click (default: _Paste_ <kbd>Ctrl</kbd>+<kbd>V</kbd>)
-- Scroll up (default: _Scroll to start_ <kbd>Ctrl</kbd>+<kbd>Home</kbd>)
-- Scroll down (default: _Scroll to end_ <kbd>Ctrl</kbd>+<kbd>End</kbd>)
+- Left click (_default_: Reload <kbd>Ctrl</kbd>+<kbd>R</kbd>)
+- Middle click (_default_: Paste <kbd>Ctrl</kbd>+<kbd>V</kbd>)
+- Scroll up (_default_: Scroll to start <kbd>Ctrl</kbd>+<kbd>Home</kbd>)
+- Scroll down (_default_: Scroll to end <kbd>Ctrl</kbd>+<kbd>End</kbd>)
 
 ### Compatibility
 It works in all Windows apps and system-wide.
