@@ -3,7 +3,7 @@
 ;@Ahk2Exe-SetProductName Right Click Master
 ;@Ahk2Exe-SetProductVersion 1.0.0.0
 ;@Ahk2Exe-SetDescription Right Click Master
-;@Ahk2Exe-SetCopyright emvaized
+;@Ahk2Exe-SetCopyright emvaized (Max Tsyba) 2026
 ; License: MIT License
 
 SetWorkingDir %A_ScriptDir%
